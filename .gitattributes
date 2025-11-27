@@ -1,0 +1,8 @@
+footer.php text eol=lf
+header.php text eol=lf
+* text=auto eol=lf
+*.php text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.svg text eol=lf
